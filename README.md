@@ -1,6 +1,9 @@
-Shadi awidat and Noor abu el foul
+Shadi awidat and Noor abu el foul.
+
 Robot Car VR.
+
 This project purpose is to move a robot car (turboPi) using VR in Unity.
+
 Steps to run the project:
 1. Open a unity project.
 2. Add the MRTK packages and make sure that the VR works.
