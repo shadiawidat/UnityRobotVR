@@ -2,7 +2,7 @@ Shadi awidat and Noor abu el foul.
 
 Robot Car VR.
 
-This project purpose is to move a robot car (turboPi) using VR in Unity.
+This project purpose is to move a robot car (TurboPi) using VR in Unity.
 
 Steps to run the project:
 1. Open a unity project.
@@ -12,5 +12,5 @@ Steps to run the project:
 5. Add the attached scripts for the suitable game objects.
 6. The Mixed reality play space script called (MRPSController), the sphere script called (PlayerController) and the GameObject script called (RobotController).
 7. Make sure to fill the fields in each script inspector.
-8. Turn on the Robot and connect it to the PC using Wifi.
+8. Turn on the Robot and connect it to the PC using Wifi (HW-16D6DECC), Password(hiwonder).
 9. Run the Unity Project. 
